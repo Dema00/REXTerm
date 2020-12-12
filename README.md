@@ -23,6 +23,8 @@ Once you have compiled the cp437 source by using the make command copy the resul
 ## Step 4: Run!
 Once you have all the compiled binaries in the same folder you should be able to run the program by executing REXTerm
 
+**The GondTerm, REXTerm and cp437 files need to be in the same directory**
+
 # AdditionalResources folder
 In this folder you will find the font for the terminal and a few .xp files to test the program with
 
